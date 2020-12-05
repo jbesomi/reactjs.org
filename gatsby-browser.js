@@ -16,7 +16,7 @@ require('./src/prism-styles');
 require('./src/css/algolia.css');
 
 // Expose React and ReactDOM as globals for console playground
-window.React = React;
+window.React = React;baby
 window.ReactDOM = ReactDOM;
 
 // A stub function is needed because gatsby won't load this file otherwise
